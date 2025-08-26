@@ -1,0 +1,8 @@
+# Whitelisted IDs
+76561198279863568    # prime
+dfc6f6b961b94a23913a522e2a18c0fa   # prisaka
+dd7ce11dcc4c4be8baa5e609a36e88b4   # aspect
+76561198159911196    # dzad
+76561198802748554    # krab
+76561198353626937    # pingu
+da0213da31bb409281c88a0d4093ffd6   # Soul
